@@ -28,3 +28,4 @@ Supported commands :
 * Current weather in {cityname} : Tells you the current condition and temperture
 * weather forecast in {cityname} : Tells you the condition, highest and lowest temperture of the next two days
 * What's up
+# Friday-type-thing
